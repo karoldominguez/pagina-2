@@ -1,23 +1,16 @@
 <html>
 <head>
-<title>PAGINA 2</title>
+<title>HELLO</title>
 </head>
- <body bgcolor="FFCECB"> </body>
-<nav>
-	<a 
-		href="index.html">
-		INICIO
-	</a>
-</nav>
 <body>
-	<p>Michael Antonio Zacarías Gallardo</p>
+	<p>Karol Andrea Dominguez López</p>
 	<script type="text/javascript">
-		alert("ESTOY AQUÍ")	
-		document.write("<p>HOLA PROFEEEE</p>")
+		alert("Estoy Aquí")	
+		document.write("<p>Hello HELLO</p>")
 	</script>
 	<noscript>
 		Your browser doesn't support or has disable JavaScrip
 	</noscript>
-	<p>6to Perito en Administración de Empresas</p>
+	<p>6TO ADMINISTRACIÓN</p>
 </body>
 </html>
