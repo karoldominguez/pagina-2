@@ -6,7 +6,7 @@
 	<p>Karol Andrea Dominguez López</p>
 	<script type="text/javascript">
 		alert("Estoy Aquí")	
-		document.write("<p>Hello HELLO</p>")
+		document.write("<p>HELLO HELLO</p>")
 	</script>
 	<noscript>
 		Your browser doesn't support or has disable JavaScrip
